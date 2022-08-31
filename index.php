@@ -18,7 +18,7 @@
 
     echo "=========================== <br>";
 
-    $gaji = 5000000;
+    $gaji = 8000000;
     $pajak = 0.5;
     $p_penghasilan = $gaji - ($gaji*$pajak);
 
